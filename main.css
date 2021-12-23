@@ -1,0 +1,22 @@
+*{
+    background-color: dimgray;
+    font-family: sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+#wrapper{
+    width: 100%;
+}
+
+.title{
+    color: chocolate;
+}
+
+.counter{
+    color: white;
+}
+
+.button{
+    background-color: white;
+    border-radius: 10px;
+}
